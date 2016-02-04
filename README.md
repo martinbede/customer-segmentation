@@ -1,12 +1,12 @@
 # Creating Customer Segments
 
-Unsupervised Learning Project
+An analysis of the customer data of a food and grocery wholesaler.
 
-## Template code
+--Part of the Udacity Machine Learning Engineer Nanodegree program.--
 
-In this directory (`customer_segments/`), run `ipython notebook`, open `customer_segments.ipynb` and follow the instructions.
+## Dependencies
 
-Note: You need Python 2.7, NumPy, pandas, matplotlib and scikit-learn to work on this notebook.
+You need Python 2.7, NumPy, pandas, matplotlib and scikit-learn to work on this notebook.
 
 ## Dataset
 
@@ -18,12 +18,12 @@ Abreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um s
 
 ## Attributes
 
-- Fresh: annual spending (m.u.) on fresh products (Continuous)
-- Milk: annual spending (m.u.) on milk products (Continuous)
-- Grocery: annual spending (m.u.)on grocery products (Continuous)
-- Frozen: annual spending (m.u.)on frozen products (Continuous)
-- Detergents_Paper: annual spending (m.u.) on detergents and paper products (Continuous)
-- Delicatessen: annual spending (m.u.)on and delicatessen products (Continuous)
+- Fresh: annual spending (m.u.) on fresh products
+- Milk: annual spending (m.u.) on milk products
+- Grocery: annual spending (m.u.) on grocery products
+- Frozen: annual spending (m.u.) on frozen products
+- Detergents_Paper: annual spending (m.u.) on detergents and paper products
+- Delicatessen: annual spending (m.u.) on and delicatessen products
 
 ## Descriptive statistics
 
