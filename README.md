@@ -2,7 +2,7 @@
 
 An analysis of the customer data of a food and grocery wholesaler.
 
---Part of the Udacity Machine Learning Engineer Nanodegree program.--
+<small>Part of the Udacity Machine Learning Engineer Nanodegree program.</small>
 
 ## Dependencies
 
